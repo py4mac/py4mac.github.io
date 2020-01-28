@@ -1,0 +1,61 @@
+site_name: Pierre-Yves BOISBUNON
+site_author: py4mac
+copyright: "Copyright &copy; 2020 Pierre-Yves BOISBUNON"
+site_url: https://py4mac.com
+repo_url: https://github.com/py4mac/py4mac.com
+repo_name: py4mac/py4mac.com
+nav:
+  - About me: 'index.md'
+  - Projects:
+    - Sofware Projects: 'projects/softwares.md'
+    - Data Sciences Courses: 'projects/datasciences_courses.md'
+    - Kaggle Competitions: 'projects/kaggle.md'
+  - Blog: 'blogs.md'
+  - Skills: 'skills.md'
+  - Contact: 'contact.md'
+theme:
+  name: "material"
+  favicon: "static/favicon/favicon.ico"
+  logo:
+    icon: "home"
+  palette:
+    primary: 'Black'
+    accent: 'Black'
+  font:
+    text: "IBM Plex Serif"
+    code: "IBM Plex Mono"
+markdown_extensions:
+  - toc:
+      permalink: "#"
+  - smarty
+  - admonition
+  - footnotes
+  - codehilite
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - fontawesome_markdown
+extra:
+  social:
+    - type: "github"
+      link: "https://github.com/py4mac"
+    - type: "linkedin"
+      link: "https://linkedin.com/in/pierreyvesboisbunon"
+  manifest: "static/favicon/site.webmanifest"
+extra_css:
+  - "stylesheets/extra.css"
+extra_javascript:
+  - "https://buttons.github.io/buttons.js"

@@ -1,0 +1,4 @@
+.vscode
+.venv
+site
+gh-pages*
