@@ -2,7 +2,7 @@ site_name: Pierre-Yves BOISBUNON
 site_author: py4mac
 copyright: "Copyright &copy; 2020 Pierre-Yves BOISBUNON"
 site_url: https://py4mac.com
-repo_url: https://github.com/py4mac/py4mac.com
+repo_url: https://github.com/py4mac/py4mac.github.io
 repo_name: py4mac/py4mac.com
 nav:
   - About me: 'index.md'
