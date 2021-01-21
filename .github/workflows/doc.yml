@@ -15,11 +15,11 @@ jobs:
         python-version: '3.x'
     - name: Install Python 3.x dependencies
       run: |
-        python3 -m pip install --upgrade pip
-        python3 -m pip install -r requirements.txt
+        make init
     - name: Build Mkdocs
       run: |
-        python3 -m mkdocs build
+        source .venv/bin/activate
+        make docs-build
         cp CNAME ./site/CNAME
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
