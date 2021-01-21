@@ -4,9 +4,11 @@ The day I discovered how Data Science could completely change the way I see IOT 
 
 *The others inspire a lot in your personal accomplishment. Then inspire at your turn!*
 
+![Business Cat](./background.png)
+
 - - -
 
-## [Latest posts](projects/softwares)
+<!-- ## [Latest posts](projects/softwares)
 
 <div id="medium-widget"></div>
 <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
@@ -22,5 +24,5 @@ The day I discovered how Data Science could completely change the way I see IOT 
             "ratio": "original"
         }
     })
-</script>
+</script> -->
 

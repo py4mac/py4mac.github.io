@@ -2,19 +2,17 @@ site_name: Pierre-Yves BOISBUNON
 site_author: py4mac
 copyright: "Copyright &copy; 2021 Pierre-Yves BOISBUNON"
 site_url: https://py4mac.com
-# repo_url: https://github.com/py4mac/py4mac.github.io
-# repo_name: py4mac/py4mac.github.io
 theme:
   name: material
   language: en
+  custom_dir: 'theme'
   palette:
     scheme: default
-  logo: 'assets/logo.png'
-  favicon: 'static/favicon/favicon.ico'
+  icon:
+    logo: material/library
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
+    - tabs
+    - instant
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
