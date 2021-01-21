@@ -1,38 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://py4mac.com/</loc>
-     <lastmod>2020-01-28</lastmod>
+     <lastmod>2021-01-21</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://py4mac.com/projects/softwares/</loc>
-     <lastmod>2020-01-28</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://py4mac.com/projects/datasciences_courses/</loc>
-     <lastmod>2020-01-28</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://py4mac.com/projects/kaggle/</loc>
-     <lastmod>2020-01-28</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://py4mac.com/blogs/</loc>
-     <lastmod>2020-01-28</lastmod>
+     <lastmod>2021-01-21</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://py4mac.com/skills/</loc>
-     <lastmod>2020-01-28</lastmod>
+    </url><url>
+     <loc>https://py4mac.com/projects/1-softwares/</loc>
+     <lastmod>2021-01-21</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://py4mac.com/contact/</loc>
-     <lastmod>2020-01-28</lastmod>
+    </url><url>
+     <loc>https://py4mac.com/projects/2-datasciences/</loc>
+     <lastmod>2021-01-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
