@@ -1,7 +1,7 @@
 # Software Projects
 
 A list of my open-source projects, all hosted on
-[:fa-github: Github](https://github.com/py4mac).
+[:fontawesome-brands-github:](https://github.com/py4mac).
 
 ## <a href=https://github.com/py4mac/lbgsttracker target=_blank>Lgbsttracker</a>
 <a class=github-button href=https://github.com/py4mac/lgbsttracker target=_blank data-show-count=true aria-label="Star Lgbsttracker on GitHub">Star</a>

@@ -1,8 +1,4 @@
-# Words
-
-## Medium
-A feed of words I've published on
-[:fa-medium: Medium](https://medium.com).
+# 
 
 <div id="medium-widget"></div>
 <script src="https://medium-widget.pixelpoint.io/widget.js"></script>

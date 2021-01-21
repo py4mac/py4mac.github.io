@@ -1,61 +1,41 @@
 site_name: Pierre-Yves BOISBUNON
 site_author: py4mac
-copyright: "Copyright &copy; 2020 Pierre-Yves BOISBUNON"
+copyright: "Copyright &copy; 2021 Pierre-Yves BOISBUNON"
 site_url: https://py4mac.com
-repo_url: https://github.com/py4mac/py4mac.github.io
-repo_name: py4mac/py4mac.github.io
-nav:
-  - About me: 'index.md'
-  - Projects:
-    - Sofware Projects: 'projects/softwares.md'
-    - Data Sciences Courses: 'projects/datasciences_courses.md'
-    - Kaggle Competitions: 'projects/kaggle.md'
-  - Blog: 'blogs.md'
-  - Skills: 'skills.md'
-  - Contact: 'contact.md'
+# repo_url: https://github.com/py4mac/py4mac.github.io
+# repo_name: py4mac/py4mac.github.io
 theme:
-  name: "material"
-  favicon: "static/favicon/favicon.ico"
-  logo:
-    icon: "home"
+  name: material
+  language: en
   palette:
-    primary: 'Black'
-    accent: 'Black'
-  font:
-    text: "IBM Plex Serif"
-    code: "IBM Plex Mono"
+    scheme: default
+  logo: 'assets/logo.png'
+  favicon: 'static/favicon/favicon.ico'
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
 markdown_extensions:
-  - toc:
-      permalink: "#"
-  - smarty
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - meta
   - admonition
   - footnotes
   - codehilite
-  - pymdownx.arithmatex
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
   - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
   - fontawesome_markdown
-extra:
-  social:
-    - type: "github"
-      link: "https://github.com/py4mac"
-    - type: "linkedin"
-      link: "https://linkedin.com/in/pierreyvesboisbunon"
-  manifest: "static/favicon/site.webmanifest"
+  - markdown_include.include:
+      base_path: docs
 extra_css:
   - "stylesheets/extra.css"
 extra_javascript:
   - "https://buttons.github.io/buttons.js"
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/py4mac
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/pierreyvesboisbunon
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@py4mac

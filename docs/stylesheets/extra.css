@@ -1,4 +1,4 @@
-input::after,
+/* input::after,
 input::before,
 select::after,
 select::before,
@@ -395,5 +395,26 @@ fieldset {
 
 .button:focus {
     outline: none;
+} */
+
+nav.md-tabs {
+    background-color:rgb(29, 47, 83);;
+}
+header.md-header {
+    background-color:rgb(29, 47, 83);;
 }
 
+@media screen and (max-width: 76.1875em) {
+    .md-nav--primary .md-nav__title[for=__drawer]{
+        color: var(--md-primary-bg-color);
+        background-color:rgb(29, 47, 83);
+    }
+    .md-nav--primary .md-nav__title{
+        color: var(--md-primary-bg-color);
+        background-color:rgb(29, 47, 83);
+    }
+}
+
+hr {
+    border: 1;
+}

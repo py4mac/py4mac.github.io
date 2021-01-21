@@ -1,7 +1,7 @@
-# Data Sciences Courses (O.C)
+# Data Sciences
 
 A list of my datasciences projects, all hosted on
-[:fa-github: Github](https://github.com/py4mac/datasciences-portfolio).
+[:fontawesome-brands-github:](https://github.com/py4mac/datasciences-portfolio).
 
 ## <a href=https://github.com/py4mac/datasciences-portfolio/tree/master/cnn target=_blank>Dog Breed Classifier</a>
 <img src="https://raw.githubusercontent.com/py4mac/datasciences-portfolio/master/cnn/img/presentation.png" class="img-responsive"></img>
@@ -42,3 +42,15 @@ This project aims to segment customers based on their transactions.
 - [Xgboost](https://xgboost.readthedocs.io/en/latest/)
 - [HyperOpt](https://github.com/hyperopt/hyperopt)
 - [Flask](https://www.palletsprojects.com/p/flask/)
+
+
+# Kaggle Competition
+
+I participated to Kaggle competitions
+[kaggle](https://www.kaggle.com/py4mac).
+
+<img src="https://raw.githubusercontent.com/py4mac/kaggle/master/img/presentation.png" class="img-responsive"></img>
+
+## Reached competitions:
+
+* Santanders: [top 28%](https://www.kaggle.com/py4mac)
