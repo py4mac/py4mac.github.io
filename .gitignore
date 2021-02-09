@@ -1,6 +1,3 @@
-.vscode
-.venv
-site
-gh-pages*
-*Zone.Identifier
-*.lock
+/build
+_gen
+/public

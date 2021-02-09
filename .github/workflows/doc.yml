@@ -8,23 +8,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v1
-    - name: Set up Python 3.x
-      uses: actions/setup-python@v1
+      uses: actions/checkout@v2
+    - name: Setup hugo
+      uses: peaceiris/actions-hugo@v2
       with:
-        python-version: '3.x'
-    - name: Install Python 3.x dependencies
+        hugo-version: "0.64.0"
+    - name: Build
+      # remove --minify tag if you do not need it
+      # docs: https://gohugo.io/hugo-pipes/minification/
+      run: hugo --minify
+    - name: Copy CNAME
       run: |
-        pip install poetry
-        make init
-    - name: Build Mkdocs
-      run: |
-        source .venv/bin/activate
-        make docs-build
-        cp CNAME ./site/CNAME
+        cp CNAME ./public/CNAME
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PUBLISH_BRANCH: master
-        PUBLISH_DIR: ./site
+        PUBLISH_DIR: ./public
