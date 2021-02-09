@@ -14,7 +14,9 @@ jobs:
       with:
         hugo-version: "0.64.0"
     - name: Build
-      run: hugo --minify
+      run: |
+        go install --tags extended
+        hugo --minify
     - name: Copy CNAME
       run: |
         cp CNAME ./public/CNAME
