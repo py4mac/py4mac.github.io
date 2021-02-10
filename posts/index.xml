@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on py4mac's blog</title><link>https://blog.py4mac.com/posts/</link><description>Recent content in Posts on py4mac's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.py4mac.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Lego Boost (c) Tracker</title><link>https://blog.py4mac.com/posts/lgbsttracker/</link><pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate><guid>https://blog.py4mac.com/posts/lgbsttracker/</guid><description>Target audience: developers wanting to play with Lego Boost (c).
+Lgbsttracker Star
+LEGO® Boost Tracker helps to store all differents sensors collected for your favorite robot ;-)
+Documentation</description></item><item><title>Kaggle Competitions</title><link>https://blog.py4mac.com/posts/kaggle/</link><pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate><guid>https://blog.py4mac.com/posts/kaggle/</guid><description>I participated to Kaggle competitions in kaggle.
+Reached competitions: Santanders: top 28%</description></item><item><title>CNN Courses</title><link>https://blog.py4mac.com/posts/cnn/</link><pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate><guid>https://blog.py4mac.com/posts/cnn/</guid><description>Target audience: developers wanting to start learning Data Science.
+Source code available here .
+This project aims to build a dog breed classifier.
+Tags OpenCV Keras HyperOpt</description></item><item><title>NLP Courses</title><link>https://blog.py4mac.com/posts/nlp/</link><pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate><guid>https://blog.py4mac.com/posts/nlp/</guid><description>Target audience: developers wanting to start learning Data Science.
+Source code available here .
+This project aims to propose Stack Overflow tag for each user based on non-supervised methodology.
+Tags Lemmatizer, Stemmer, CountVectorizer, TFIDF, LDA and NMF Word2vec</description></item><item><title>Clustering Courses</title><link>https://blog.py4mac.com/posts/customer/</link><pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate><guid>https://blog.py4mac.com/posts/customer/</guid><description>Target audience: developers wanting to start learning Data Science.
+Source code available here .
+This project aims to segment customers based on their transactions.
+Tags KMeans, PCA, RandomForestClassifier Xgboost HyperOpt Flask</description></item><item><title>Classification Courses</title><link>https://blog.py4mac.com/posts/movies/</link><pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate><guid>https://blog.py4mac.com/posts/movies/</guid><description>Target audience: developers wanting to start learning Data Science.
+Source code available here .
+This project aims to build movie recommendation engine.
+Tags KMeans, NearestNeighbors Flask</description></item></channel></rss>
