@@ -21,8 +21,8 @@ jobs:
       run: |
         cp CNAME ./public/CNAME
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v2
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        ACTIONS_DEPLOY_KEY: ${{ secrets.GITHUB_TOKEN  }}
         PUBLISH_BRANCH: master
         PUBLISH_DIR: ./public
