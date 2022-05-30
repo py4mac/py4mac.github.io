@@ -4,23 +4,23 @@
 
 ### Design Patterns
 
-- [ ] [Design patterns in C](https://github.com/huawenyu/Design-Patterns-in-C) (on-going)
-- [ ] [Main design patterns with Plantuml](https://github.com/RafaelKuebler/PlantUMLDesignPatterns)
-- [x] [Design Patterns for Embedded System](https://github.com/ksvbka/design_pattern_for_embedded_system)
-- [ ] [Design Patterns reference guide](https://refactoring.guru/fr/design-patterns)
-- [ ] [General study of embedded software](https://embeddedartistry.com/blog/2020/06/08/qa-how-we-document-software-projects/)
+[ ] [Design patterns in C](https://github.com/huawenyu/Design-Patterns-in-C) (on-going)
+[ ] [Main design patterns with Plantuml](https://github.com/RafaelKuebler/PlantUMLDesignPatterns)
+[x] [Design Patterns for Embedded System](https://github.com/ksvbka/design_pattern_for_embedded_system)
+[ ] [Design Patterns reference guide](https://refactoring.guru/fr/design-patterns)
+[ ] [General study of embedded software](https://embeddedartistry.com/blog/2020/06/08/qa-how-we-document-software-projects/)
 
 
 ### OOP
 
-- [ ] [Object oriented with C](https://www.codementor.io/@michaelsafyan/object-oriented-programming-in-c-du1081gw2)
+[ ] [Object oriented with C](https://www.codementor.io/@michaelsafyan/object-oriented-programming-in-c-du1081gw2)
 
 ## Embedded Linux
 
 ### Yocto
 
-- [x] [Container with Yocto](https://github.com/embeddedlinuxacademy/yocto-buildcontainer)
-- [x] [Getting started with C/C++ development Yocto](https://www.youtube.com/watch?v=NmPta5w6P70)
-- [x] [Using Meta-Rust with Yocto](https://www.youtube.com/watch?v=aPsMuSU-Btw)
-- [ ] [Yocto cookbook](https://digiwiki.eccee.com/_media/digi/arm-embedded/linux/dey/embedded_linux_projects_using_yocto_project_cookbook.pdf)
-- [ ] [Yocto best practices](https://bootlin.com/pub/conferences/2020/elce/belloni-yocto-best-practices/belloni-yocto-best-practices.pdf)
+[x] [Container with Yocto](https://github.com/embeddedlinuxacademy/yocto-buildcontainer)
+[x] [Getting started with C/C++ development Yocto](https://www.youtube.com/watch?v=NmPta5w6P70)
+[x] [Using Meta-Rust with Yocto](https://www.youtube.com/watch?v=aPsMuSU-Btw)
+[ ] [Yocto cookbook](https://digiwiki.eccee.com/_media/digi/arm-embedded/linux/dey/embedded_linux_projects_using_yocto_project_cookbook.pdf)
+[ ] [Yocto best practices](https://bootlin.com/pub/conferences/2020/elce/belloni-yocto-best-practices/belloni-yocto-best-practices.pdf)
