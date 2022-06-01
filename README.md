@@ -4,9 +4,14 @@
 
 ### Design Patterns
 
-- [ ] [Design patterns in C](https://github.com/huawenyu/Design-Patterns-in-C) (on-going)
-- [ ] [Main design patterns with Plantuml](https://github.com/RafaelKuebler/PlantUMLDesignPatterns)
 - [x] [Design Patterns for Embedded System](https://github.com/ksvbka/design_pattern_for_embedded_system)
+- [ ] [Design patterns in C](https://github.com/huawenyu/Design-Patterns-in-C) (on-going)
+    - [ ] OOP / Inheritance
+    - [ ] Proxy
+    - [ ] Mediator
+    - [ ] Observer
+- [ ] [Main design patterns with Plantuml](https://github.com/RafaelKuebler/PlantUMLDesignPatterns) (on-going)
+- [ ] [Managing Coupling with the Mediator and Facade Patterns](https://embeddedartistry.com/blog/2020/07/06/managing-complexity-with-the-mediator-and-facade-patterns/)
 - [ ] [Design Patterns reference guide](https://refactoring.guru/fr/design-patterns)
 - [ ] [General study of embedded software](https://embeddedartistry.com/blog/2020/06/08/qa-how-we-document-software-projects/)
 
